@@ -2,7 +2,7 @@
 <h3 align="center">Backend & Full-Stack Developer | Java • Spring Boot • React • MongoDB</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vaibhavranaaa">LinkedIn</a> •
+  <a href="https://linkedin.com/in/vaibhavranaaaa">LinkedIn</a> •
   <a href="https://github.com/vaibhavranaaa">GitHub</a> •
   <a href="https://leetcode.com/vaibhavranaaa">LeetCode</a>
 </p>
