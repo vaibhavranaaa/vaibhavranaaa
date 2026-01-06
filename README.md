@@ -13,8 +13,8 @@
 - 🎓 B.Tech CSE Student @ Sharda University (2023-27)
 - 🧠 Java | Spring Boot | REST APIs | JWT Security | React | MongoDB
 - 🧩 Preparing for Backend + SDE Internships
-- 💡 Building real-world projects and learning system design & DSA
-- 🌱 Current Focus: Advanced Spring Security, Microservices, AWS
+- 💡 Building real-world projects and core CS concepts & DSA
+- 🌱 Current Focus: Backened,DSA,Computer Fundamental
 
 ---
 
