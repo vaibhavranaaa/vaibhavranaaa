@@ -14,26 +14,16 @@
 - 🧠 Java | Spring Boot | REST APIs | JWT Security | React | MongoDB
 - 🧩 Preparing for Backend + SDE Internships
 - 💡 Building real-world projects and core CS concepts & DSA
-- 🌱 Current Focus: Backened,DSA,Computer Fundamental
+- 🌱 Current Focus: Backend, DSA, Computer Fundamentals
 
 ---
 
 ### 🛠️ Tech Stack
 **Languages:** Java, Python, JavaScript  
-**Backend:** Spring Boot 
+**Backend:** Spring Boot  
 **Frontend:** React.js, HTML, CSS  
 **Database:** MongoDB, MySQL  
 **Tools:** Git, GitHub, Postman, IntelliJ, VS Code  
-
----
-
-### 📂 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🍔 Food Delivery Web App | Full stack system with auth, cart, orders, admin panel | Spring Boot, React, MongoDB |
-
-
----
 
 ---
 
