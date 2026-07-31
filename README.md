@@ -4,7 +4,7 @@ Hi 👋, I'm Vaibhav Rana
 
 <h3 align="center">
 <a href="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;JavaDeveloper;Software Developer;DSA+Enthusiast">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Spring+Boot+Developer;Full+Stack+Developer;DSA+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;JavaDeveloper;Software Developer;DSA+Enthusiast"/>
 </a>
 </h3>
 
@@ -87,14 +87,6 @@ Hi 👋, I'm Vaibhav Rana
 | 🔗 Blockchain Certificate Verification | Blockchain • IPFS |
 
 ---
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavranaaa&theme=tokyo-night"/>
-
-</p>
 
 ---
 
